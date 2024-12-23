@@ -1,1 +1,1 @@
-FROM public.ecr.aws/localstack/localstack:3.8
+FROM public.ecr.aws/localstack/localstack:2.3
